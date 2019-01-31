@@ -5,3 +5,6 @@
 
 * ## Week 2
      ### [Homework-2]()
+
+* ## Week 3
+     ### [Homework-3]()
