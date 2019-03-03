@@ -20,7 +20,7 @@
 
 [![Steps](https://kikijinqili.github.io/CIM642-JinqiLi/hw-1/hw-1-steps.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/hw-1/hw-1-steps.jpg)
 
-[^Back to Top^](https://kikijinqili.github.io/CIM642-JinqiLi/#contents)
+[^Back to Top^](https://github.com/kikijinqili/CIM642-JinqiLi#contents)
 
 ## WEEK 2
 
@@ -32,7 +32,7 @@
 
 [![](https://kikijinqili.github.io/CIM642-JinqiLi/hw-2/spaceship.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/hw-2/spaceship.jpg)
 
-[^Back to Top^](https://kikijinqili.github.io/CIM642-JinqiLi/#contents)
+[^Back to Top^](https://github.com/kikijinqili/CIM642-JinqiLi#contents)
 
 ## WEEK 3
 
