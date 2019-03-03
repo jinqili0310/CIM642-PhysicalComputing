@@ -11,7 +11,7 @@
 
 ## HW 1
 
-> Create an interface for your machine using the Storyboard Worksheet:<br/>
+> Create an interface for your machine using the Storyboard Worksheet:
 > * Use the parts worksheet to prototype your machine. You can choose to prototype a particular aspect of your machine.
 
 [![Layout](https://kikijinqili.github.io/CIM642-JinqiLi/hw-1/hw-1-layout.jpg)
