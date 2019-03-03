@@ -41,6 +41,8 @@
 >   * Coffeemaker
 >   * TV
 
+[![](https://kikijinqili.github.io/CIM642-JinqiLi/hw-3/userflow.png)](https://kikijinqili.github.io/CIM642-JinqiLi/hw-3/userflow.png)
+
 [^Back to Top^](https://github.com/kikijinqili/CIM642-JinqiLi#cim-642---jinqi-li---homework)
 
 ## HW 4
