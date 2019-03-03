@@ -51,17 +51,17 @@
 
   * [Video](https://www.youtube.com/watch?v=t7NgBB1lTbA)
 
-  * [Code](https://github.com/kikijinqili/CIM642-JinqiLi/blob/master/hw-3/love-o-meter.ino)
+  * [Code](https://github.com/kikijinqili/CIM642-JinqiLi/blob/master/hw-4/love-o-meter.ino)
   
-  [![](https://kikijinqili.github.io/CIM642-JinqiLi/hw-3/love-o-meter.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/hw-3/love-o-meter.jpg)
+  [![](https://kikijinqili.github.io/CIM642-JinqiLi/hw-4/love-o-meter.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/hw-4/love-o-meter.jpg)
   
 * Color Mixing Lamp
 
   * [Video](https://www.youtube.com/watch?v=4UDvRaDlXPo)
   
-  * [Code](https://github.com/kikijinqili/CIM642-JinqiLi/blob/master/hw-3/colorMixingLamp.ino)
+  * [Code](https://github.com/kikijinqili/CIM642-JinqiLi/blob/master/hw-4/colorMixingLamp.ino)
   
-  [![](https://kikijinqili.github.io/CIM642-JinqiLi/hw-3/colorMixingLamp.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/hw-3/colorMixingLamp.jpg)
+  [![](https://kikijinqili.github.io/CIM642-JinqiLi/hw-4/colorMixingLamp.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/hw-4/colorMixingLamp.jpg)
   
 [^Back to Top^](https://github.com/kikijinqili/CIM642-JinqiLi#cim-642---jinqi-li---homework)
 
