@@ -9,6 +9,8 @@
 * [**HW 5**](https://github.com/kikijinqili/CIM642-JinqiLi#hw-5)
 * [**HW 6 - Midterm**](https://github.com/kikijinqili/CIM642-JinqiLi#hw-6---midterm)
 
+***
+
 ## HW 1
 
 > Create an interface for your machine using the Storyboard Worksheet:
@@ -20,6 +22,8 @@
 [![Steps](https://kikijinqili.github.io/CIM642-JinqiLi/hw-1/hw-1-steps.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/hw-1/hw-1-steps.jpg)
 
 [^Back to Top^](https://github.com/kikijinqili/CIM642-JinqiLi#cim-642---jinqi-li---homework)
+
+***
 
 ## HW 2
 
@@ -33,6 +37,8 @@
 
 [^Back to Top^](https://github.com/kikijinqili/CIM642-JinqiLi#cim-642---jinqi-li---homework)
 
+***
+
 ## HW 3
 
 > User Flow <br/>
@@ -44,6 +50,8 @@
 [![](https://kikijinqili.github.io/CIM642-JinqiLi/hw-3/userflow.png)](https://kikijinqili.github.io/CIM642-JinqiLi/hw-3/userflow.png)
 
 [^Back to Top^](https://github.com/kikijinqili/CIM642-JinqiLi#cim-642---jinqi-li---homework)
+
+***
 
 ## HW 4
 
@@ -66,6 +74,8 @@
   [![](https://kikijinqili.github.io/CIM642-JinqiLi/hw-4/colorMixingLamp.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/hw-4/colorMixingLamp.jpg)
   
 [^Back to Top^](https://github.com/kikijinqili/CIM642-JinqiLi#cim-642---jinqi-li---homework)
+
+***
 
 ## HW 5
 
@@ -100,3 +110,5 @@
   [![](https://kikijinqili.github.io/CIM642-JinqiLi/hw-5/knockLock.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/hw-5/knockLock.jpg)
 
 [^Back to Top^](https://github.com/kikijinqili/CIM642-JinqiLi#cim-642---jinqi-li---homework)
+
+***
