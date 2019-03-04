@@ -93,7 +93,7 @@
 
 * Knock Lock
 
-  * [Video]()
+  * [Video](https://youtu.be/-ib6TvlcsPw)
   
   * [Code](https://github.com/kikijinqili/CIM642-JinqiLi/blob/master/hw-5/knockLock.ino)
   
