@@ -91,4 +91,12 @@
 >           * Map
 >           * Sign
 
+* Knock Lock
+
+  * [Video]()
+  
+  * [Code](https://github.com/kikijinqili/CIM642-JinqiLi/blob/master/hw-5/knockLock.ino)
+  
+  [![](https://kikijinqili.github.io/CIM642-JinqiLi/hw-5/knockLock.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/hw-5/knockLock.jpg)
+
 [^Back to Top^](https://github.com/kikijinqili/CIM642-JinqiLi#cim-642---jinqi-li---homework)
