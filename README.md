@@ -109,6 +109,33 @@
   
   [![](https://kikijinqili.github.io/CIM642-JinqiLi/hw-5/knockLock.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/hw-5/knockLock.jpg)
 
+* Sensor Walk
+
+1. Parking Pay Station
+
+   [![](https://kikijinqili.github.io/CIM642-JinqiLi/hw-5/payStation.png)](https://kikijinqili.github.io/CIM642-JinqiLi/hw-5/payStation.png)
+   
+   * User flow: 
+     * press the number button to input plate number > press continue button > press number button to select a parking option > insert cash or card to pay > take the receipt
+   * Inputs: buttons, card reader
+     * Buttons: Passive; The user press the button.
+     * Card reader: Active; The card triggers the sensor.
+   * Outputs: signage, screen, receipt
+     * Active; When triggered, they give instructions.
+
+2. Water Fountain
+
+   [![](https://kikijinqili.github.io/CIM642-JinqiLi/hw-5/waterFountain.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/hw-5/waterFountain.jpg)
+
+   * User flows: 
+     * put a bottle on the bottle rest > wait until the bottle is filled > take away the bottle
+     * push the button with “PUSH” > drink the water came out of the dispenser > release the button
+   * Inputs: putting the bottle on the rest, “PUSH” button
+     * Putting the bottle on the rest: Active; The bottle triggers the sensor.
+     * “PUSH” button: Passive; The user push the button.
+   * Outputs: water
+     * Active; When triggered, the water pours out.
+
 [^Back to Top^](https://github.com/kikijinqili/CIM642-JinqiLi#cim-642---jinqi-li---homework)
 
 ***
