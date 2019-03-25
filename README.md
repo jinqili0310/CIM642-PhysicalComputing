@@ -147,11 +147,11 @@
     * It is a robot arm which is intended to hit me up when I am in a deep sleep and cannot hear the alarm clock.
 
   * Projects That Influence It
-    * Use sound sensor to input the sound of the alarm clock
+    * Use sound sensor to input the sound of the alarm clock: 
       https://www.youtube.com/watch?v=setjiVH0_IY&t=5s&list=WL&index=7 
-    * Use Arduino to build a simple robot arm
+    * Use Arduino to build a simple robot arm: 
       https://www.youtube.com/watch?v=D_x6r8lFoCE 
-    * Control the arm with my phone
+    * Control the arm with my phone: 
       https://www.youtube.com/watch?v=_B3gWd3A_SI 
 
   * Part List
