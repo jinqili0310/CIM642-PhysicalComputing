@@ -207,7 +207,7 @@
       * Progress
         [![](https://kikijinqili.github.io/CIM642-JinqiLi/hw-mid/mid5.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/hw-mid/mid5.jpg)
         [![](https://kikijinqili.github.io/CIM642-JinqiLi/hw-mid/mid6.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/hw-mid/mid6.jpg)
-      * Finished Input
+      * Finished Input <br/>
         [![](https://kikijinqili.github.io/CIM642-JinqiLi/hw-mid/mid4.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/hw-mid/mid4.jpg)
       * Finished Output
         [![](https://kikijinqili.github.io/CIM642-JinqiLi/hw-mid/mid3.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/hw-mid/mid3.jpg)
