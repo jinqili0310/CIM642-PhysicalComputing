@@ -7,7 +7,7 @@
 * [**HW 3**](https://github.com/kikijinqili/CIM642-JinqiLi#hw-3)
 * [**HW 4**](https://github.com/kikijinqili/CIM642-JinqiLi#hw-4)
 * [**HW 5**](https://github.com/kikijinqili/CIM642-JinqiLi#hw-5)
-* [**HW 6 - Midterm**](https://github.com/kikijinqili/CIM642-JinqiLi#hw-6---midterm)
+* [**Midterm**](https://github.com/kikijinqili/CIM642-JinqiLi#midterm)
 
 ***
 
@@ -140,7 +140,7 @@
 
 ***
 
-## HW 6 - Midterm
+## Midterm
 
 * Proposal -- HitMeUp Robot
 
