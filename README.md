@@ -139,6 +139,7 @@
 [^Back to Top^](https://github.com/kikijinqili/CIM642-JinqiLi#cim-642---jinqi-li---homework)
 
 ***
+
 ## HW 6 - Midterm
 
 * Proposal -- HitMeUp Robot
@@ -180,7 +181,7 @@
         * Multiple Servo Control with Arduino Uno R3: https://www.youtube.com/watch?v=TkA2LJctU1c
         
   * Code
-    * 
+    * [![](https://kikijinqili.github.io/CIM642-JinqiLi/hw-mid/code.png)](https://kikijinqili.github.io/CIM642-JinqiLi/hw-mid/code.png)
     
   * Components
     * Part List
@@ -191,10 +192,32 @@
       * Output: Servo Motor -- Kinetic Energy
       
   * Interaction
-    * 
+    * Layout
+      [![](https://kikijinqili.github.io/CIM642-JinqiLi/hw-mid/mid1.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/hw-mid/mid1.jpg)
     * Storyboard 
-    [![](https://kikijinqili.github.io/CIM642-JinqiLi/hw-mid/flow-hmu.png)](https://kikijinqili.github.io/CIM642-JinqiLi/hw-mid/flow-hmu.png)
-    * 
+      [![](https://kikijinqili.github.io/CIM642-JinqiLi/hw-mid/flow-hmu.png)](https://kikijinqili.github.io/CIM642-JinqiLi/hw-mid/flow-hmu.png)
+      * Explanation
+        * User turn on the alarm clock to input the sound into the microphone.
+        * I want to use the sound to make the servo motor move.
+        * The sound is detected by the microphone, and this information is delivered to the Arduino, then the servo motor would move.
+    * Ideally, the project should be a real boxing glove motivated by a large motor which would move when the sound sensor received the sound of the alarm clock.
+    
+  * Images and Videos
+    * Images
+      * Progress
+        [![](https://kikijinqili.github.io/CIM642-JinqiLi/hw-mid/mid5.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/hw-mid/mid5.jpg)
+        [![](https://kikijinqili.github.io/CIM642-JinqiLi/hw-mid/mid6.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/hw-mid/mid6.jpg)
+      * Finished Input
+        [![](https://kikijinqili.github.io/CIM642-JinqiLi/hw-mid/mid4.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/hw-mid/mid4.jpg)
+      * Finished Output
+        [![](https://kikijinqili.github.io/CIM642-JinqiLi/hw-mid/mid3.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/hw-mid/mid3.jpg)
+      * Finished Breadboard
+        [![](https://kikijinqili.github.io/CIM642-JinqiLi/hw-mid/mid2.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/hw-mid/mid2.jpg)
+      
+    * Video
+      * [Video Link](https://youtu.be/0r-pEjBan0s)
     
   
 [^Back to Top^](https://github.com/kikijinqili/CIM642-JinqiLi#cim-642---jinqi-li---homework)
+
+***
