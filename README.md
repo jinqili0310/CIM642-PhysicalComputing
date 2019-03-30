@@ -181,7 +181,7 @@
         * Multiple Servo Control with Arduino Uno R3: https://www.youtube.com/watch?v=TkA2LJctU1c
         
   * Code
-    * [![](https://kikijinqili.github.io/CIM642-JinqiLi/hw-mid/code.png)](https://kikijinqili.github.io/CIM642-JinqiLi/hw-mid/code.png)
+    * [Code Link](https://github.com/kikijinqili/CIM642-JinqiLi/blob/master/hw-mid/midterm.ino)
     
   * Components
     * Part List
@@ -217,7 +217,6 @@
     * Video
       * [Video Link](https://youtu.be/0r-pEjBan0s)
     
-  
 [^Back to Top^](https://github.com/kikijinqili/CIM642-JinqiLi#cim-642---jinqi-li---homework)
 
 ***
