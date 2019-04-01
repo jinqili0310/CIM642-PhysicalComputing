@@ -7,7 +7,7 @@
       * Multiple Servo Control with Arduino Uno R3: https://www.youtube.com/watch?v=TkA2LJctU1c
         
 * Code
-  * [Code Link](https://github.com/kikijinqili/CIM642-JinqiLi/blob/master/hw-mid/midterm.ino)
+  * [Code Link](https://github.com/kikijinqili/CIM642-JinqiLi/blob/master/Midterm/midterm.ino)
     
 * Components
   * Part List
@@ -19,9 +19,9 @@
       
 * Interaction
   * Layout
-    [![](https://kikijinqili.github.io/CIM642-JinqiLi/midterm/mid1.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/midterm/mid1.jpg)
+    [![](https://kikijinqili.github.io/CIM642-JinqiLi/Midterm/mid1.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/Midterm/mid1.jpg)
   * Storyboard 
-    [![](https://kikijinqili.github.io/CIM642-JinqiLi/midterm/flow-hmu.png)](https://kikijinqili.github.io/CIM642-JinqiLi/midterm/flow-hmu.png)
+    [![](https://kikijinqili.github.io/CIM642-JinqiLi/Midterm/flow-hmu.png)](https://kikijinqili.github.io/CIM642-JinqiLi/Midterm/flow-hmu.png)
     * Explanation
       * User turn on the alarm clock to input the sound into the microphone.
       * I want to use the sound to make the servo motor move.
@@ -31,14 +31,14 @@
 * Images and Videos
   * Images
     * Progress
-      [![](https://kikijinqili.github.io/CIM642-JinqiLi/midterm/mid5.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/midterm/mid5.jpg)
-      [![](https://kikijinqili.github.io/CIM642-JinqiLi/midterm/mid6.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/midterm/mid6.jpg)
+      [![](https://kikijinqili.github.io/CIM642-JinqiLi/Midterm/mid5.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/Midterm/mid5.jpg)
+      [![](https://kikijinqili.github.io/CIM642-JinqiLi/Midterm/mid6.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/Midterm/mid6.jpg)
     * Finished Input <br/>
-      [![](https://kikijinqili.github.io/CIM642-JinqiLi/midterm/mid4.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/midterm/mid4.jpg)
+      [![](https://kikijinqili.github.io/CIM642-JinqiLi/Midterm/mid4.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/Midterm/mid4.jpg)
     * Finished Output
-      [![](https://kikijinqili.github.io/CIM642-JinqiLi/midterm/mid3.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/midterm/mid3.jpg)
+      [![](https://kikijinqili.github.io/CIM642-JinqiLi/Midterm/mid3.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/Midterm/mid3.jpg)
     * Finished Breadboard
-      [![](https://kikijinqili.github.io/CIM642-JinqiLi/midterm/mid2.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/midterm/mid2.jpg)
+      [![](https://kikijinqili.github.io/CIM642-JinqiLi/Midterm/mid2.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/Midterm/mid2.jpg)
       
   * Video
     * [Video Link](https://youtu.be/0r-pEjBan0s)
