@@ -171,7 +171,7 @@
 
 * Deliverables
 
-  [Folder Link](https://github.com/kikijinqili/CIM642-JinqiLi/tree/master/Midterm)
+  * [Folder Link](https://github.com/kikijinqili/CIM642-JinqiLi/tree/master/Midterm)
     
 [^Back to Top^](https://github.com/kikijinqili/CIM642-JinqiLi#cim-642---jinqi-li---homework)
 
