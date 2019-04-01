@@ -162,7 +162,7 @@
     * Servo motor
 
   * Interactions
-    * [![](https://kikijinqili.github.io/CIM642-JinqiLi/hw-mid/flow-hmu.png)](https://kikijinqili.github.io/CIM642-JinqiLi/hw-mid/flow-hmu.png)
+    * [![](https://kikijinqili.github.io/CIM642-JinqiLi/Midterm/flow-hmu.png)](https://kikijinqili.github.io/CIM642-JinqiLi/Midterm/flow-hmu.png)
 
   * Modifications
     * The position of the robot
