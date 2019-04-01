@@ -19,9 +19,9 @@
       
 * Interaction
   * Layout
-    [![](https://kikijinqili.github.io/CIM642-JinqiLi/hw-mid/mid1.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/hw-mid/mid1.jpg)
+    [![](https://kikijinqili.github.io/CIM642-JinqiLi/midterm/mid1.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/midterm/mid1.jpg)
   * Storyboard 
-    [![](https://kikijinqili.github.io/CIM642-JinqiLi/hw-mid/flow-hmu.png)](https://kikijinqili.github.io/CIM642-JinqiLi/hw-mid/flow-hmu.png)
+    [![](https://kikijinqili.github.io/CIM642-JinqiLi/midterm/flow-hmu.png)](https://kikijinqili.github.io/CIM642-JinqiLi/midterm/flow-hmu.png)
     * Explanation
       * User turn on the alarm clock to input the sound into the microphone.
       * I want to use the sound to make the servo motor move.
@@ -31,14 +31,14 @@
 * Images and Videos
   * Images
     * Progress
-      [![](https://kikijinqili.github.io/CIM642-JinqiLi/hw-mid/mid5.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/hw-mid/mid5.jpg)
-      [![](https://kikijinqili.github.io/CIM642-JinqiLi/hw-mid/mid6.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/hw-mid/mid6.jpg)
+      [![](https://kikijinqili.github.io/CIM642-JinqiLi/midterm/mid5.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/midterm/mid5.jpg)
+      [![](https://kikijinqili.github.io/CIM642-JinqiLi/midterm/mid6.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/midterm/mid6.jpg)
     * Finished Input <br/>
-      [![](https://kikijinqili.github.io/CIM642-JinqiLi/hw-mid/mid4.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/hw-mid/mid4.jpg)
+      [![](https://kikijinqili.github.io/CIM642-JinqiLi/midterm/mid4.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/midterm/mid4.jpg)
     * Finished Output
-      [![](https://kikijinqili.github.io/CIM642-JinqiLi/hw-mid/mid3.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/hw-mid/mid3.jpg)
+      [![](https://kikijinqili.github.io/CIM642-JinqiLi/midterm/mid3.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/midterm/mid3.jpg)
     * Finished Breadboard
-      [![](https://kikijinqili.github.io/CIM642-JinqiLi/hw-mid/mid2.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/hw-mid/mid2.jpg)
+      [![](https://kikijinqili.github.io/CIM642-JinqiLi/midterm/mid2.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/midterm/mid2.jpg)
       
   * Video
     * [Video Link](https://youtu.be/0r-pEjBan0s)
