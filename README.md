@@ -169,7 +169,7 @@
     * The range of motions
     * The frequency and speed 
 
-* Diverables
+* Deliverables
 
   [Folder Link](https://github.com/kikijinqili/CIM642-JinqiLi/tree/master/Midterm)
     
