@@ -171,7 +171,7 @@
        
    6. Hand Washing Sink
      
-      [![](https://kikijinqili.github.io/CIM642-JinqiLi/hw-5/lightSwitch.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/hw-5/lightSwitch.jpg) 
+      [![](https://kikijinqili.github.io/CIM642-JinqiLi/hw-5/handWashingSink.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/hw-5/handWashingSink.jpg) 
       
       * User Flow:
         * put your hand under the water dispenser > the water is dispensed
