@@ -234,3 +234,28 @@
 [^Back to Top^](https://github.com/kikijinqili/CIM642-JinqiLi#cim-642---jinqi-li---homework)
 
 ***
+
+## Final
+
+* Proposal -- Flappy Bird (Feat. Sound Controller)
+
+  * What is it?
+    * It is a new version of a classical game "Flappy Bird", in which you can use your voice to control the character.
+    
+  * Projects That Influence It
+    * 
+    
+  * Part List
+    * Arduino UNO
+    * 1.8 Inch TFT LCD Display Module
+    * Microphone Amplifier
+    * Switch
+    
+  * Interactions
+    * 
+  
+  * Modifications
+    * 
+    
+  * Deliverables
+    * 
