@@ -1,10 +1,12 @@
 * About The Project
   * Title: HitMeUp Robot
-  * Motivation: I have a trouble that I cannot hear the alarm clock sometimes. So I need a robot to wake me up when the alarm clock rings.      * Stakeholders: People who have the same trouble as me.
-    * Inspring Projects: 
-      * Tiny Arduino Music Visualizer: https://learn.adafruit.com/piccolo/overview
-      * Sound Sensor Module with Arduino Tutorial "Clap Switch": https://www.youtube.com/watch?v=YC8QaDniHSw&t=39s
-      * Multiple Servo Control with Arduino Uno R3: https://www.youtube.com/watch?v=TkA2LJctU1c
+  * Motivation: I have a trouble that I cannot hear the alarm clock sometimes. So I need a robot to wake me up when the alarm clock rings.      
+  * Stakeholders: People who have the same trouble as me.
+  
+  * Inspring Projects: 
+    * Tiny Arduino Music Visualizer: https://learn.adafruit.com/piccolo/overview
+    * Sound Sensor Module with Arduino Tutorial "Clap Switch": https://www.youtube.com/watch?v=YC8QaDniHSw&t=39s
+    * Multiple Servo Control with Arduino Uno R3: https://www.youtube.com/watch?v=TkA2LJctU1c
         
 * Code
   * [Code Link](https://github.com/kikijinqili/CIM642-JinqiLi/blob/master/Midterm/midterm.ino)
