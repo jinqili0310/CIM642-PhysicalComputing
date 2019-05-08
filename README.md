@@ -7,6 +7,7 @@
 * [**HW 3**](https://github.com/kikijinqili/CIM642-JinqiLi#hw-3)
 * [**HW 4**](https://github.com/kikijinqili/CIM642-JinqiLi#hw-4)
 * [**HW 5**](https://github.com/kikijinqili/CIM642-JinqiLi#hw-5)
+* [**HW 6**](https://github.com/kikijinqili/CIM642-JinqiLi#hw-6)
 * [**Midterm**](https://github.com/kikijinqili/CIM642-JinqiLi#midterm)
 * [**Final**](https://github.com/kikijinqili/CIM642-JinqiLi#final)
 
@@ -194,6 +195,21 @@
   3. Card Payment Reader
      * From the input of parking pay station
      * [![](https://kikijinqili.github.io/CIM642-JinqiLi/hw-5/cardPaymentReader.png)](https://kikijinqili.github.io/CIM642-JinqiLi/hw-5/cardPaymentReader.png)
+
+[^Back to Top^](https://github.com/kikijinqili/CIM642-JinqiLi#cim-642---jinqi-li---homework)
+
+***
+
+## HW 6
+
+* Paper Prototype
+
+  * [![](https://kikijinqili.github.io/CIM642-JinqiLi/hw-6/final2.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/hw-6/final2.jpg)
+  
+* 3D Print Parts
+  
+  * [![](https://kikijinqili.github.io/CIM642-JinqiLi/hw-6/parts1.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/hw-6/part1.jpg)
+  * [![](https://kikijinqili.github.io/CIM642-JinqiLi/hw-6/parts2.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/hw-6/part2.jpg)
 
 [^Back to Top^](https://github.com/kikijinqili/CIM642-JinqiLi#cim-642---jinqi-li---homework)
 
