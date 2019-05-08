@@ -243,7 +243,9 @@
     * It is a new version of a classical game "Flappy Bird", in which you can use your voice to control the character.
     
   * Projects That Influence It
-    * 
+    * [Flappy Bird](https://flappybird.io/)
+    * [8th note](https://www.youtube.com/watch?v=ZBNjz_2f6Pc&t=55s)
+    * [Homemade GameBoy](https://www.youtube.com/watch?v=yVzIvbx_vC0&t=236s)
     
   * Part List
     * Arduino UNO
@@ -252,10 +254,12 @@
     * Switch
     
   * Interactions
-    * 
+    * Press button -> Game starts -> Yell at the microphone to control the bird's movement
   
   * Modifications
-    * 
+    * Refine the user interface
+    * Use better screen to display the game
+    * Use better inputs
     
   * Deliverables
-    * 
+    * [Folder Link](https://github.com/kikijinqili/CIM642-JinqiLi/tree/master/Final)
