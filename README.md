@@ -8,6 +8,7 @@
 * [**HW 4**](https://github.com/kikijinqili/CIM642-JinqiLi#hw-4)
 * [**HW 5**](https://github.com/kikijinqili/CIM642-JinqiLi#hw-5)
 * [**Midterm**](https://github.com/kikijinqili/CIM642-JinqiLi#midterm)
+* [**Final**](https://github.com/kikijinqili/CIM642-JinqiLi#final)
 
 ***
 
@@ -261,5 +262,8 @@
     * Use better screen to display the game
     * Use better inputs
     
-  * Deliverables
-    * [Folder Link](https://github.com/kikijinqili/CIM642-JinqiLi/tree/master/Final)
+* Deliverables
+   
+   * [Folder Link](https://github.com/kikijinqili/CIM642-JinqiLi/tree/master/Final)
+    
+[^Back to Top^](https://github.com/kikijinqili/CIM642-JinqiLi#cim-642---jinqi-li---homework)
