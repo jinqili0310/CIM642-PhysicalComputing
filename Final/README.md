@@ -29,7 +29,7 @@
       [![](https://kikijinqili.github.io/CIM642-JinqiLi/Final/final2.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/Final/final2.jpg)
       [![](https://kikijinqili.github.io/CIM642-JinqiLi/Final/final3.jpg)](https://kikijinqili.github.io/CIM642-JinqiLi/Final/final3.jpg)
     * User Flow
-      Press button -> Game starts -> Yell at the microphone to control the bird's movement
+      * Press button -> Game starts -> Yell at the microphone to control the bird's movement
         
 * Images and Videos
   * Images
