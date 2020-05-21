@@ -1,4 +1,4 @@
-# CIM 642 - Jinqi Li - Homework
+# CIM642-PhysicalComputing
 ### [Final Project Demo](https://youtu.be/PUz5DzLDjSc)
 
 ## CONTENTS
